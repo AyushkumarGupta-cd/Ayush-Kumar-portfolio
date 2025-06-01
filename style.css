@@ -15,7 +15,7 @@ body{
 #header{
     width: 100%;
     height: 100vh;
-    background-image: url(img/ayush3.jpg);
+    background-image: url(ayush3.jpg);
     background-size: cover;
     background-position: center;
 }
@@ -324,7 +324,7 @@ nav .fas{
 }
 @media only screen and (max-width: 600px){
     #header{
-        background-image: url(img/ayush4.jpg);
+        background-image: url(ayush4.jpg);
         height: 600px;
     }
     #header img{
